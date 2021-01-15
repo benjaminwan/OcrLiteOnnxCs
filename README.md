@@ -15,7 +15,7 @@
 * 注意：Emgu.CV要选作者是“Emgu Corporation”
 * Emgu.CV 4.4.0.4099
 * Emgu.CV.runtime.windows 4.4.0.4099
-* MicroSoft.ML.OnnxRuntime 1.5.2
+* MicroSoft.ML.OnnxRuntime 1.6.0
 * clipper_library 6.2.1
 3. 解决方案资源管理器->OcrLiteOnnxForm->右键->管理NuGet程序包->浏览->搜索->安装
 * 注意：Emgu.CV要选作者是“Emgu Corporation”
